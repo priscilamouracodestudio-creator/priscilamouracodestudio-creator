@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Priscila 🦊
 
-<!--
-**priscilamouracodestudio-creator/priscilamouracodestudio-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Student  
+📚 Currently studying Systems Analysis and Development  
 
-Here are some ideas to get you started:
+I’m passionate about technology, programming and building structured solutions.  
+My goal is to develop strong skills in software engineering, data architecture and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Focus Areas
+- Data Architecture
+- Software Development
+- Problem Solving and Programming Logic
+
+## 🧠 Technologies I'm studying
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- Git / GitHub
+
+## 📚 Currently working on
+- Programming fundamentals
+- Web development projects
+- Data structure and architecture concepts
+- Building my developer portfolio
+
+## 🎯 Objective
+To grow as a software developer, contributing to innovative technology projects while continuously improving my skills in programming, data architecture and system design.
