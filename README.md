@@ -1,4 +1,5 @@
-# Hi, I'm Priscila 🦊
+**# Hi, I'm Priscila 🦊
+Software Development Student | Java | Python | Data Architecture**
 
 💻 Software Development Student  
 📚 Currently studying Systems Analysis and Development  
