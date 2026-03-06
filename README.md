@@ -3,7 +3,8 @@
 💻 Software Development Student  
 📚 Currently studying Systems Analysis and Development  
 
-I’m passionate about technology, programming and building structured solutions.  
+I’m passionate about technology, programming and building structured solutions.
+
 My goal is to develop strong skills in software engineering, data architecture and scalable systems.
 
 ## 🚀 Focus Areas
@@ -22,7 +23,7 @@ My goal is to develop strong skills in software engineering, data architecture a
 ## 📚 Currently working on
 - Programming fundamentals
 - Web development projects
-- Data structure and architecture concepts
+- Data structures and architecture concepts
 - Building my developer portfolio
 
 ## 🎯 Objective
