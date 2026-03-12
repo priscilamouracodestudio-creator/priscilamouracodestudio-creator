@@ -10,9 +10,10 @@ I’m passionate about technology, programming and building structured solutions
 My goal is to develop strong skills in software engineering, data architecture and scalable systems.
 
 ## 🚀 Focus Areas
+- Backend Development
 - Data Architecture
-- Software Development
-- Problem Solving and Programming Logic
+- Secure Software Engineering
+- Problem Solving & Programming Logic
 
 ## 🧠 Technologies I'm studying
 - HTML
