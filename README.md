@@ -1,6 +1,6 @@
 # Hi, I'm Priscila 🦊
 
-Student | Java | Python | Data Architecture
+Student | Java | Python | IA | Software Engineer | Data Architecture
 
 💻 Software Development Student  
 📚 Currently studying Systems Analysis and Development  
