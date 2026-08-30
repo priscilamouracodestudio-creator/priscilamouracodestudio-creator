@@ -1,33 +1,17 @@
 # Hi, I'm Priscila 🦊
 
-Student | Java | Python | IA | Software Engineer | Data Architecture
+🎓 Systems Analysis and Development student | Transitioning from journalism to software engineering  
+💻 Focused on backend development, data structures and clean architecture
 
-💻 Software Development Student  
-📚 Currently studying Systems Analysis and Development  
+I build things to actually understand how they work — not just to check a box. My latest project implements a call center system with custom-built queue and stack data structures, the Strategy design pattern, and SOLID principles.
 
-I’m passionate about technology, programming and building structured solutions.
+## 📌 Featured Project
+🔗 [call-center-system](https://github.com/seu-usuario/call-center-system) — Java system with custom linked queue/stack, Strategy Pattern and SOLID principles
 
-My goal is to develop strong skills in software engineering, data architecture and scalable systems.
+## 🧠 Currently learning
+- Java · Python · JavaScript
+- Data structures & design patterns
+- Git / GitHub workflows
 
-## 🚀 Focus Areas
-- Backend Development
-- Data Architecture
-- Secure Software Engineering
-- Problem Solving & Programming Logic
-
-## 🧠 Technologies I'm studying
-- HTML
-- CSS
-- JavaScript
-- Java
-- Python
-- Git / GitHub
-
-## 📚 Currently working on
-- Programming fundamentals
-- Web development projects
-- Data structures and architecture concepts
-- Building my developer portfolio
-
-## 🎯 Objective
-To grow as a software developer, contributing to innovative technology projects while continuously improving my skills in programming, data architecture and system design.
+## 🎯 What I'm working toward
+Growing into a backend/software engineering role where I can apply solid architecture thinking to real systems — bringing the same attention to structure and clarity I built over 8+ years in communications, now applied to code.
