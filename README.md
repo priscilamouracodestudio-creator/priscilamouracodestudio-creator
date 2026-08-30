@@ -6,7 +6,7 @@
 I build things to actually understand how they work — not just to check a box. My latest project implements a call center system with custom-built queue and stack data structures, the Strategy design pattern, and SOLID principles.
 
 ## 📌 Featured Project
-🔗 [[call-center-system](https://github.com/seu-usuario/call-center-system)](https://github.com/priscilamouracodestudio-creator/call-center-system) — Java system with custom linked queue/stack, Strategy Pattern and SOLID principles
+🔗 [call-center-system(https://github.com/seu-usuario/call-center-system)](https://github.com/priscilamouracodestudio-creator/call-center-system) — Java system with custom linked queue/stack, Strategy Pattern and SOLID principles
 
 ## 🧠 Currently learning
 - Java · Python · JavaScript
