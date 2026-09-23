@@ -5,13 +5,20 @@
 
 I build things to actually understand how they work — not just to check a box. My latest project implements a call center system with custom-built queue and stack data structures, the Strategy design pattern, and SOLID principles.
 
-## 📌 Featured Project
-🔗 [call-center-system(https://github.com/seu-usuario/call-center-system)](https://github.com/priscilamouracodestudio-creator/call-center-system) — Java system with custom linked queue/stack, Strategy Pattern and SOLID principles
+### 📌 Featured Project
 
-## 🧠 Currently learning
-- Java · Python · JavaScript
-- Data structures & design patterns
-- Git / GitHub workflows
+#### 📞 [Call Center System](https://github.com/priscilamouracodestudio-creator/call-center-system)
+*Java system built with custom Queue/Stack data structures, Strategy Design Pattern, and SOLID principles.*
+
+<a href="https://github.com/priscilamouracodestudio-creator/call-center-system">
+  <img src="https://raw.githubusercontent.com/priscilamouracodestudio-creator/call-center-system/main/demo.gif" alt="Call Center System Demo" width="100%">
+</a>
+
+### 🛠️ Tech Stack & Focus Areas
+- **Languages:** Java, Python, JavaScript, SQL
+- **Software Engineering:** OOP, Data Structures & Algorithms, Design Patterns, SOLID Principles
+- **Cybersecurity & Systems:** Linux (Ubuntu / Kali Linux), Virtual Machines (VMs), CTF Challenges, DevSecOps
+- **Version Control & Environment:** Git, GitHub, WSL2, Bash / Terminal
 
 ## 🎯 What I'm working toward
-Growing into a backend/software engineering role where I can apply solid architecture thinking to real systems — bringing the same attention to structure and clarity I built over 8+ years in communications, now applied to code.
+Growing into a backend/software engineering role where I can apply solid architecture thinking to real systems.
