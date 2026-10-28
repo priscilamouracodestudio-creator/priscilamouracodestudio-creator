@@ -10,7 +10,7 @@ I build things to actually understand how they work, then I test how they break 
 | Project | What it shows |
 |---|---|
 | 🔐 [Web Vulnerability Analysis (OWASP Juice Shop)](https://github.com/priscilamouracodestudio-creator/projeto-final-vuln-analysis) | Pentest on an isolated lab: SQL Injection, XSS, IDOR, JWT bypass, with evidence and a full technical report |
-| 🛡️ [Blue Team × Red Team Lab](https://github.com/priscilamouracodestudio-creator/blue-team-red-team-lab) | Defended a live system alone for 7 days against a class of Red Team attackers |
+| 🛡️ [Blue Team × Red Team Lab](https://github.com/priscilamouracodestudio-creator/blue-team-red-team-lab) | Built, deployed and defended a real, internet-exposed application alone for 7 days: monitoring, incident response and documentation |
 | 🔎 [Linux Forensics Lab](https://github.com/priscilamouracodestudio-creator/linux-forensics-lab) | Identifying compromised users, malicious processes and hidden artifacts on Kali Linux |
 | 📞 [Call Center System (Java)](https://github.com/priscilamouracodestudio-creator/call-center-system) | Custom Queue/Stack, Strategy Pattern and SOLID principles |
 
